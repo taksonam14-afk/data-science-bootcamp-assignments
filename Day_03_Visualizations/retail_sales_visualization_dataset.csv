@@ -1,0 +1,13 @@
+Order_ID,Date,Region,Category,Product,Quantity,Unit_Price,Discount,Sales,Profit
+ORD1001,2025-01-01,South,Office Supplies,Notebook,2,91.98,0.1,165.56,28.38
+ORD1002,2025-01-03,West,Furniture,Lamp,5,1163.64,0.0,5818.20,1590.05
+ORD1003,2025-01-04,South,Accessories,Cable,9,187.85,0.2,1352.52,384.86
+ORD1004,2025-01-07,East,Electronics,Headphones,3,2499.00,0.15,6372.45,1420.50
+ORD1005,2025-01-10,North,Furniture,Chair,4,4500.00,0.05,17100.00,4250.00
+ORD1006,2025-01-12,West,Office Supplies,Paper,10,25.50,0.0,255.00,85.20
+ORD1007,2025-01-15,North,Electronics,Laptop,2,45000.00,0.1,81000.00,18500.00
+ORD1008,2025-01-18,East,Accessories,Mouse,6,450.00,0.05,2565.00,680.00
+ORD1009,2025-01-21,West,Furniture,Desk,1,12500.00,0.1,11250.00,2800.00
+ORD1010,2025-01-25,South,Electronics,Monitor,3,15000.00,0.15,38250.00,8900.00
+ORD1011,2025-01-28,East,Office Supplies,Binder,8,120.00,0.0,960.00,320.00
+ORD1012,2025-01-30,North,Accessories,Keyboard,5,1200.00,0.1,5400.00,1350.00
